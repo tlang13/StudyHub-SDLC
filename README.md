@@ -1,6 +1,9 @@
 # StudyHub
 StudyHub is an application for organizing study activities.
 
+## Rylan  
+## Tyler 
+
 ## Requirements
 - [ ] FR-01 (Add Activity)
 - [ ] FR-02 (View Activities)
